@@ -6,7 +6,7 @@ pre-commit install
 
 # Introduction
 
-This repository serves as a template for both Python and Node.js Docker projects. Follow the instructions below to set up your project.
+Turn text into lifelike spoken audio using OpenAI's TTS
 
 ## Getting Started
 
